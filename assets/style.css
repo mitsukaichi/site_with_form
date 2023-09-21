@@ -55,7 +55,7 @@ button{
 }
 
 .about_author li{
-    list-style: L;
+    list-style: none;
 }
 
 a:hover{
